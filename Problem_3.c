@@ -7,7 +7,11 @@ int main() {
     scanf("%d", &number);
 
     // Write your code here
-    
+    int n;
+    if (n%2==0)
+     printf("Even");
+    else
+     printf("Odd");
     
    
     return 0;
